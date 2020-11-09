@@ -1,6 +1,9 @@
+# Project status
+![](https://img.shields.io/badge/label-ongoing-green)
+
 # Security by Design
 
-This project is about designing an architecture with focus on security. The final design is not a definite answer, but can be seen more like suggestion(s) on implementing security methods.
+This is an ongoing project that is about designing an architecture with focus on security. The final design is not a definite answer, but can be seen more like suggestion(s) on implementing security methods.
 
 # Motivation
 
@@ -20,4 +23,4 @@ A system that tracks books, authors, and their many-to-many relationship. Typica
 
 # App- /Web-client
 
-The frontend client will have the ability to let a user search on a book and/ord author. The obvious thing here is to implement input santization in order to prevent XSS and SQL-Injection ([OWASP's Top 10 Vulnerabilities](https://owasp.org/www-project-top-ten/))
+The frontend client will have the ability to let a user search on a book and/ord author. The obvious thing here is to implement input santization in order to prevent XSS and SQL-Injection ([OWASP's Top 10 Vulnerabilities](https://owasp.org/www-project-top-ten/)).
