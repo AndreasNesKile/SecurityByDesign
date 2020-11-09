@@ -1,5 +1,5 @@
 # Project status
-![](https://img.shields.io/badge/label-ongoing-green)
+![](https://img.shields.io/badge/status-ongoing-green)
 
 # Security by Design
 
